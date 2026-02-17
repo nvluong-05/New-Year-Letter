@@ -181,6 +181,7 @@ body::after {
     position: relative;
     font-weight: 300;
     text-align: center;
+    -webkit-user-select: none;
     user-select: none;
 }
 
